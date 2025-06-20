@@ -1,5 +1,6 @@
 # Prerequisites
 ######
+## aparently I updated some json file?
 - JDK 21 
 - Maven 3.9 
 - MySQL 8
